@@ -8,6 +8,7 @@ A back end API for a social network application that utilizes noSQL database, Mo
 * JavaScript
 * Node.js
 * Express.js
+* MongoDB
 * Mongoose
 
 ## Installation
